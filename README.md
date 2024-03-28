@@ -1,4 +1,4 @@
-![image](https://github.com/raj1622/Dynamic-News-Portal/assets/98221264/4124ef42-b212-410f-ba90-55ee9a859679)# Dynamic-News-Portal
+# Dynamic-News-Portal
 This project is a dynamic news portal built with HTML, CSS, and JavaScript. It provides users with a simple and intuitive interface to browse news articles from different categories.<br>
 <br>
 Features<br>
